@@ -1,3 +1,6 @@
 # Deep-learning
+#basic
 basic of deeplearning are present in this file.
-this is done in a jupyter notebook.
+#MP_Neuron
+this file consists of a training of a dataset(breast_cancer) using MP_neuron model.
+
